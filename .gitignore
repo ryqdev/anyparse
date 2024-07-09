@@ -1,2 +1,7 @@
 .vscode
 .idea
+
+# Distribution / packaging
+.Python
+build/
+dist/
