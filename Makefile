@@ -18,6 +18,6 @@ test:
 clean:
 	rm -rf __pycache__
 	rm -rf tests/__pycache__
-	rm -rf src/objprint/__pycache__
+	rm -rf src/anyparse/__pycache__
 	rm -rf build
 	rm -rf dist
