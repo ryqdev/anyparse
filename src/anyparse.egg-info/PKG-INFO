@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: anyparse
-Version: 0.0.1
+Version: 0.0.2
 Summary: A library that can parse data from given strings
 Author-email: Ryan Shang <ykshang4119@gmail.com>
 License:                     GNU GENERAL PUBLIC LICENSE
@@ -693,3 +693,7 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # anyparse
+
+```shell
+pip install anyparse
+```

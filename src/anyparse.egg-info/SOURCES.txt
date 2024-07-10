@@ -7,3 +7,4 @@ src/anyparse.egg-info/PKG-INFO
 src/anyparse.egg-info/SOURCES.txt
 src/anyparse.egg-info/dependency_links.txt
 src/anyparse.egg-info/top_level.txt
+tests/test_basic.py
